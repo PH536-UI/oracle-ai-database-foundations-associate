@@ -1,27 +1,74 @@
 # Oracle AI Database Foundations Associate
 
-> Study repository for the Oracle AI Database Foundations Associate learning path.
+> Bilingual study portfolio for the Oracle AI Database Foundations Associate learning path.  
+> Portfólio bilíngue de estudos para a trilha Oracle AI Database Foundations Associate.
 
 ## About | Sobre
 
-This repository documents my learning journey through Oracle AI Database 26ai, Autonomous AI Database, AI-powered data development, analytics, and low-code applications.
+This repository documents my learning journey through Oracle AI Database 26ai, Autonomous AI Database, AI-powered data development, analytics, and low-code applications. It is structured to turn each completed module into concise notes, Skill Check evidence, references, and future hands-on practice.
 
-Este repositório documenta minha jornada de aprendizado com Oracle AI Database 26ai, Autonomous AI Database, desenvolvimento de dados com IA, análises e aplicações low-code.
+Este repositório documenta minha jornada de aprendizado com Oracle AI Database 26ai, Autonomous AI Database, desenvolvimento de dados com IA, análises e aplicações low-code. Ele foi estruturado para transformar cada módulo concluído em anotações objetivas, evidências de Skill Check, referências e futuras práticas.
+
+## Repository structure | Estrutura do repositório
+
+```text
+.
+├── notes/          # Bilingual study notes | Anotações bilíngues
+├── skill-checks/   # Confirmed concepts and results | Conceitos e resultados confirmados
+├── practices/      # Hands-on exercises | Exercícios práticos
+├── resources/      # Official links and references | Links e referências oficiais
+└── assets/         # Non-sensitive visuals or diagrams | Visuais ou diagramas não sensíveis
+```
+
+## Learning roadmap | Roteiro de aprendizagem
+
+| Module | Focus | Status |
+|---|---|---|
+| 1 | Oracle AI Database 26ai: converged database, JSON, graphs, and vector search | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
+| 2 | Introduction to Autonomous AI Database | Planned / Planejado |
+| 3 | Development Tools and Data Studio | Planned / Planejado |
+| 4 | AI Innovations | Planned / Planejado |
+| 5 | Low-code Development with Oracle APEX | Planned / Planejado |
+
+## Module 1 highlights | Destaques do Módulo 1
+
+- Converged architecture for relational, JSON, graph, spatial, and vector data.
+- Native JSON storage with OSON and JSON Relational Duality Views.
+- Property Graph fundamentals: vertices, edges, and `MATCH` in `GRAPH_TABLE`.
+- Vector embeddings with ONNX-compatible models and `VECTOR_EMBEDDING()`.
+- Approximate similarity search, vector index organizations, and `TARGET ACCURACY`.
+
+- Arquitetura convergente para dados relacionais, JSON, grafos, espaciais e vetoriais.
+- Armazenamento JSON nativo com OSON e JSON Relational Duality Views.
+- Fundamentos de Grafos de Propriedade: vértices, arestas e `MATCH` em `GRAPH_TABLE`.
+- Embeddings vetoriais com modelos compatíveis com ONNX e `VECTOR_EMBEDDING()`.
+- Busca de similaridade aproximada, organizações de índices vetoriais e `TARGET ACCURACY`.
 
 ## Current progress | Progresso atual
 
 - [x] Repository created / Repositório criado
-- [x] README documented / README documentado
-- [ ] Module 1: Oracle AI Database 26ai
-- [ ] Module 1 Skill Check, target: 80% or higher
-- [ ] Modules 2 to 5
-- [ ] Final certification preparation
+- [x] Initial repository structure published / Estrutura inicial publicada
+- [x] Module 1 notes and confirmed Skill Check concepts documented / Anotações do Módulo 1 e conceitos confirmados do Skill Check documentados
+- [ ] Module 1 final Skill Check score recorded / Pontuação final do Skill Check do Módulo 1 registrada
+- [ ] Modules 2 to 5 completed and documented / Módulos 2 a 5 concluídos e documentados
+- [ ] Final bilingual study guide created / Documento final bilíngue de estudos criado
 
-## Source | Fonte
+## Study method | Método de estudo
+
+1. Complete one module at a time. / Concluir um módulo por vez.
+2. Record the key concepts in English and Portuguese. / Registrar os conceitos-chave em inglês e português.
+3. Keep only confirmed feedback and non-sensitive evidence. / Manter apenas feedback confirmado e evidências não sensíveis.
+4. Move to the next module only after completing the current module. / Avançar para o próximo módulo somente após concluir o módulo atual.
+5. Create the final study guide after all modules are complete. / Criar o documento final de estudos após concluir todos os módulos.
+
+## Sources | Fontes
 
 - Oracle MyLearn
-- Course: Oracle AI Database Foundations Associate
+- Course: *Oracle AI Database Foundations Associate*
+- Official Oracle documentation, linked in [`resources/module-01-resources.md`](resources/module-01-resources.md)
 
 ---
 
-Personal learning portfolio. Not an official Oracle certification.
+Personal learning portfolio. It is not an official Oracle certification or a substitute for Oracle documentation.
+
+Portfólio pessoal de aprendizagem. Não é uma certificação oficial Oracle nem substitui a documentação da Oracle.
