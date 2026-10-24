@@ -123,3 +123,9 @@ Terminal recordings from the local Floci emulator only, not OCI tenancy executio
 - [Terminal recording 1 | Gravação de terminal 1](<assets/evidence/Gravação de Tela 2026-10-24 000142.mp4>)
 - [Terminal recording 2 | Gravação de terminal 2](<assets/evidence/Gravação de Tela 2026-10-24 001319.mp4>)
 - [Terminal recording 3 | Gravação de terminal 3](<assets/evidence/Gravação de Tela 2026-10-24 004832.mp4>)
+
+## Floci service labs | Laboratórios de serviços Floci
+
+Validated local evidence for Queue, Streaming, Vault/KMS and Identity: [SERVICE_LABS.md](practices/floci-local-emulator/SERVICE_LABS.md).
+
+Evidências locais validadas de Queue, Streaming, Vault/KMS e Identity: [SERVICE_LABS.md](practices/floci-local-emulator/SERVICE_LABS.md).
