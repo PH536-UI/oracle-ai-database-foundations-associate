@@ -26,7 +26,7 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 |---|---|---|
 | 1 | Oracle AI Database 26ai: converged database, JSON, graphs, and vector search | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 2 | Introduction to Autonomous AI Database: deployment options, provisioning, and workload types | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
-| 3 | Development Tools and Data Studio | Planned / Planejado |
+| 3 | Development Tools and Data Studio: SQL Developer Web, Data Studio, SQLcl, ORDS, and Table AI Assist | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 4 | AI Innovations | Planned / Planejado |
 | 5 | Low-code Development with Oracle APEX | Planned / Planejado |
 
@@ -58,14 +58,40 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 - Gerenciamento autônomo de backups, patches, disponibilidade e infraestrutura.
 - Otimização de workload para Fast Complex Analytics e processamento transacional.
 
+## Module 3 highlights | Destaques do Módulo 3
+
+- SQL Developer Web for browser-based SQL, modeling, development, and management.
+- Data Studio Catalog for data lineage and downstream impact analysis.
+- SQLcl with Liquibase for schema lifecycle management.
+- ORDS for REST-enabling schemas and database objects.
+- Delta Sharing and Table AI Assist for governed sharing and AI-assisted data preparation.
+
+- SQL Developer Web para SQL, modelagem, desenvolvimento e gestão no navegador.
+- Data Studio Catalog para linhagem de dados e análise de impacto downstream.
+- SQLcl com Liquibase para gestão do ciclo de vida do schema.
+- ORDS para habilitar schemas e objetos de banco para REST.
+- Delta Sharing e Table AI Assist para compartilhamento governado e preparação de dados com IA.
+
+## Local-first practice with Floci | Prática local primeiro com Floci
+
+This portfolio uses the Floci OCI emulator as the local, cost-free practice environment for supported OCI APIs and services. Labs do not create Oracle Cloud resources, use an Oracle Cloud tenancy, or incur OCI charges.
+
+Este portfólio usa o emulador OCI Floci como ambiente local e sem custo para praticar APIs e serviços OCI suportados. Os laboratórios não criam recursos Oracle Cloud, não usam uma tenancy Oracle Cloud e não geram cobranças de OCI.
+
+Floci is documented transparently as an emulator. It does not claim to reproduce every Oracle Cloud or Autonomous AI Database capability, including the complete Data Studio experience.
+
+O Floci é documentado com transparência como um emulador. Ele não pretende reproduzir todos os recursos do Oracle Cloud ou Autonomous AI Database, incluindo a experiência completa do Data Studio.
+
 ## Current progress | Progresso atual
 
 - [x] Repository created / Repositório criado
 - [x] Initial repository structure published / Estrutura inicial publicada
 - [x] Module 1 notes and confirmed Skill Check concepts documented / Anotações do Módulo 1 e conceitos confirmados do Skill Check documentados
 - [x] Module 2 notes and confirmed Skill Check concepts documented / Anotações do Módulo 2 e conceitos confirmados do Skill Check documentados
+- [x] Module 3 notes and confirmed Skill Check concepts documented / Anotações do Módulo 3 e conceitos confirmados do Skill Check documentados
+- [x] Floci local practice starter added / Ambiente inicial de prática local com Floci adicionado
 - [ ] Final Skill Check scores recorded / Pontuações finais dos Skill Checks registradas
-- [ ] Modules 3 to 5 completed and documented / Módulos 3 a 5 concluídos e documentados
+- [ ] Modules 4 and 5 completed and documented / Módulos 4 e 5 concluídos e documentados
 - [ ] Final bilingual study guide created / Documento final bilíngue de estudos criado
 
 ## Study method | Método de estudo
@@ -81,6 +107,7 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 - Oracle MyLearn
 - Course: *Oracle AI Database Foundations Associate*
 - Official Oracle documentation, linked in [`resources/`](resources/)
+- [Floci OCI emulator](https://github.com/floci-io/floci-oci) for local practice with supported OCI APIs and services / [Emulador OCI Floci](https://github.com/floci-io/floci-oci) para prática local com APIs e serviços OCI suportados
 
 ---
 
