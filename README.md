@@ -114,3 +114,12 @@ O Floci é documentado com transparência como um emulador. Ele não pretende re
 Personal learning portfolio. It is not an official Oracle certification or a substitute for Oracle documentation.
 
 Portfólio pessoal de aprendizagem. Não é uma certificação oficial Oracle nem substitui a documentação da Oracle.
+
+
+## Floci local terminal evidence | Evidências do terminal Floci local
+
+Terminal recordings from the local Floci emulator only, not OCI tenancy execution. / Gravações do emulador Floci local, não de uma execução em tenancy OCI.
+
+- [Terminal recording 1 | Gravação de terminal 1](<assets/evidence/Gravação de Tela 2026-10-24 000142.mp4>)
+- [Terminal recording 2 | Gravação de terminal 2](<assets/evidence/Gravação de Tela 2026-10-24 001319.mp4>)
+- [Terminal recording 3 | Gravação de terminal 3](<assets/evidence/Gravação de Tela 2026-10-24 004832.mp4>)
