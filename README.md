@@ -25,7 +25,7 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 | Module | Focus | Status |
 |---|---|---|
 | 1 | Oracle AI Database 26ai: converged database, JSON, graphs, and vector search | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
-| 2 | Introduction to Autonomous AI Database | Planned / Planejado |
+| 2 | Introduction to Autonomous AI Database: deployment options, provisioning, and workload types | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 3 | Development Tools and Data Studio | Planned / Planejado |
 | 4 | AI Innovations | Planned / Planejado |
 | 5 | Low-code Development with Oracle APEX | Planned / Planejado |
@@ -44,13 +44,28 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 - Embeddings vetoriais com modelos compatíveis com ONNX e `VECTOR_EMBEDDING()`.
 - Busca de similaridade aproximada, organizações de índices vetoriais e `TARGET ACCURACY`.
 
+## Module 2 highlights | Destaques do Módulo 2
+
+- Serverless versus Dedicated Infrastructure deployment models.
+- Private software-defined networking, default encryption, scalable RAC, and Exadata.
+- Capacity settings selected by the user: ECPUs and storage.
+- Autonomous management of backups, patches, availability, and infrastructure.
+- Workload optimization for Fast Complex Analytics and transaction processing.
+
+- Modelos de implantação Serverless e Dedicated Infrastructure.
+- Rede privada definida por software, criptografia padrão, RAC escalável e Exadata.
+- Configurações de capacidade escolhidas pelo usuário: ECPUs e armazenamento.
+- Gerenciamento autônomo de backups, patches, disponibilidade e infraestrutura.
+- Otimização de workload para Fast Complex Analytics e processamento transacional.
+
 ## Current progress | Progresso atual
 
 - [x] Repository created / Repositório criado
 - [x] Initial repository structure published / Estrutura inicial publicada
 - [x] Module 1 notes and confirmed Skill Check concepts documented / Anotações do Módulo 1 e conceitos confirmados do Skill Check documentados
-- [ ] Module 1 final Skill Check score recorded / Pontuação final do Skill Check do Módulo 1 registrada
-- [ ] Modules 2 to 5 completed and documented / Módulos 2 a 5 concluídos e documentados
+- [x] Module 2 notes and confirmed Skill Check concepts documented / Anotações do Módulo 2 e conceitos confirmados do Skill Check documentados
+- [ ] Final Skill Check scores recorded / Pontuações finais dos Skill Checks registradas
+- [ ] Modules 3 to 5 completed and documented / Módulos 3 a 5 concluídos e documentados
 - [ ] Final bilingual study guide created / Documento final bilíngue de estudos criado
 
 ## Study method | Método de estudo
@@ -65,7 +80,7 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 
 - Oracle MyLearn
 - Course: *Oracle AI Database Foundations Associate*
-- Official Oracle documentation, linked in [`resources/module-01-resources.md`](resources/module-01-resources.md)
+- Official Oracle documentation, linked in [`resources/`](resources/)
 
 ---
 
