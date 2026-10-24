@@ -27,7 +27,7 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 | 1 | Oracle AI Database 26ai: converged database, JSON, graphs, and vector search | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 2 | Introduction to Autonomous AI Database: deployment options, provisioning, and workload types | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 3 | Development Tools and Data Studio: SQL Developer Web, Data Studio, SQLcl, ORDS, and Table AI Assist | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
-| 4 | AI Innovations | Planned / Planejado |
+| 4 | AI Innovations | Notes and official resources added; Skill Check pending / Anotações e recursos oficiais adicionados; Skill Check pendente |
 | 5 | Low-code Development with Oracle APEX | Planned / Planejado |
 
 ## Module 1 highlights | Destaques do Módulo 1
@@ -89,9 +89,10 @@ O Floci é documentado com transparência como um emulador. Ele não pretende re
 - [x] Module 1 notes and confirmed Skill Check concepts documented / Anotações do Módulo 1 e conceitos confirmados do Skill Check documentados
 - [x] Module 2 notes and confirmed Skill Check concepts documented / Anotações do Módulo 2 e conceitos confirmados do Skill Check documentados
 - [x] Module 3 notes and confirmed Skill Check concepts documented / Anotações do Módulo 3 e conceitos confirmados do Skill Check documentados
+- [x] Module 4 study notes and official resources documented; Skill Check pending / Anotações de estudo e recursos oficiais do Módulo 4 documentados; Skill Check pendente
 - [x] Floci local practice starter added / Ambiente inicial de prática local com Floci adicionado
 - [ ] Final Skill Check scores recorded / Pontuações finais dos Skill Checks registradas
-- [ ] Modules 4 and 5 completed and documented / Módulos 4 e 5 concluídos e documentados
+- [ ] Module 5 completed and documented / Módulo 5 concluído e documentado
 - [ ] Final bilingual study guide created / Documento final bilíngue de estudos criado
 
 ## Study method | Método de estudo
@@ -115,11 +116,11 @@ Personal learning portfolio. It is not an official Oracle certification or a sub
 
 Portfólio pessoal de aprendizagem. Não é uma certificação oficial Oracle nem substitui a documentação da Oracle.
 
-
 ## Floci local terminal evidence | Evidências do terminal Floci local
 
 Terminal recordings from the local Floci emulator only, not OCI tenancy execution. / Gravações do emulador Floci local, não de uma execução em tenancy OCI.
 
+- [Evidence index | Índice de evidências](assets/evidence/README.md)
 - [Terminal recording 1 | Gravação de terminal 1](<assets/evidence/Gravação de Tela 2026-10-24 000142.mp4>)
 - [Terminal recording 2 | Gravação de terminal 2](<assets/evidence/Gravação de Tela 2026-10-24 001319.mp4>)
 - [Terminal recording 3 | Gravação de terminal 3](<assets/evidence/Gravação de Tela 2026-10-24 004832.mp4>)
