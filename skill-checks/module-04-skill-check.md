@@ -2,10 +2,10 @@
 
 ## Status | Status
 
-Not attempted yet / Ainda não realizado.
+Completed with a confirmed final score of **98%**. / Concluído com pontuação final confirmada de **98%**.
 
 ## Recording rule | Regra de registro
 
-This file will record only the final confirmed result after the Skill Check is completed. It will not reproduce assessment questions, answers, or unverified scores.
+This file records only the confirmed final result. It does not reproduce assessment questions or answers.
 
-Este arquivo registrará somente o resultado final confirmado após a conclusão do Skill Check. Ele não reproduzirá perguntas, respostas ou pontuações não verificadas.
+Este arquivo registra somente o resultado final confirmado. Ele não reproduz perguntas ou respostas da avaliação.

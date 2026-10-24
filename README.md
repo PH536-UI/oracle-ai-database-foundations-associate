@@ -27,7 +27,7 @@ Este repositório documenta minha jornada de aprendizado com Oracle AI Database 
 | 1 | Oracle AI Database 26ai: converged database, JSON, graphs, and vector search | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 2 | Introduction to Autonomous AI Database: deployment options, provisioning, and workload types | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
 | 3 | Development Tools and Data Studio: SQL Developer Web, Data Studio, SQLcl, ORDS, and Table AI Assist | Notes and confirmed-answer record added / Anotações e registro de respostas confirmadas adicionados |
-| 4 | AI Innovations | Notes and official resources added; Skill Check pending / Anotações e recursos oficiais adicionados; Skill Check pendente |
+| 4 | AI Innovations | Skill Check completed: 98% / Skill Check concluído: 98% |
 | 5 | Low-code Development with Oracle APEX | Planned / Planejado |
 
 ## Module 1 highlights | Destaques do Módulo 1
@@ -89,9 +89,9 @@ O Floci é documentado com transparência como um emulador. Ele não pretende re
 - [x] Module 1 notes and confirmed Skill Check concepts documented / Anotações do Módulo 1 e conceitos confirmados do Skill Check documentados
 - [x] Module 2 notes and confirmed Skill Check concepts documented / Anotações do Módulo 2 e conceitos confirmados do Skill Check documentados
 - [x] Module 3 notes and confirmed Skill Check concepts documented / Anotações do Módulo 3 e conceitos confirmados do Skill Check documentados
-- [x] Module 4 study notes and official resources documented; Skill Check pending / Anotações de estudo e recursos oficiais do Módulo 4 documentados; Skill Check pendente
+- [x] Module 4 study notes and official resources documented; Skill Check completed with 98% / Anotações de estudo e recursos oficiais do Módulo 4 documentados; Skill Check concluído com 98%
 - [x] Floci local practice starter added / Ambiente inicial de prática local com Floci adicionado
-- [ ] Final Skill Check scores recorded / Pontuações finais dos Skill Checks registradas
+- [x] Module 4 final Skill Check score recorded: 98% / Pontuação final do Skill Check do Módulo 4 registrada: 98%
 - [ ] Module 5 completed and documented / Módulo 5 concluído e documentado
 - [ ] Final bilingual study guide created / Documento final bilíngue de estudos criado
 
